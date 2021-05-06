@@ -1,0 +1,14 @@
+enum Ingredients {
+  OCTOPUS='OCTOPUS',
+  SOJA_SAUCE='SOJA_SAUCE',
+  RICE='RICE',
+  PORK='PORK',
+  EGGS='EGGS',
+  NOODLE='NOODLE',
+  CHICKEN='CHICKEN',
+  DOUGH='DOUGH',
+  MATCHA='MATCHA',
+  CHOCOLATE='CHOCOLATE',
+}
+
+export default Ingredients
